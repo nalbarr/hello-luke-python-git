@@ -1,9 +1,16 @@
+** move to nalbarr travis !!!
+
 .. image:: https://travis-ci.org/fabiommendes/python-boilerplate.svg?branch=master
     :target: https://travis-ci.org/fabiommendes/python-boilerplate
 
 .. image:: https://coveralls.io/repos/github/fabiommendes/python-boilerplate/badge.svg?branch=master
     :target: https://coveralls.io/github/fabiommendes/python-boilerplate?branch=master
 
+
+** also inspired by https://pypi.python.org/pypi/python-boilerplate/0.4.10
+
+** review all below a hack out only what is necessary and lift and move to hello-shapes-python
+project with some minimal functionality
 
 Starting a new Python project from the scratch is boring and error prone:
 * First create a setup.py script
